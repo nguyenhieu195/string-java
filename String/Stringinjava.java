@@ -8,6 +8,7 @@ package String;
  *
  * @author huytainguyen
  */
+//
 public class Stringinjava {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Tran Nhat Vinh");
